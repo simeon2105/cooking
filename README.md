@@ -1,5 +1,5 @@
 <html>
-<title>Кулинария</title>
+
 <body>
 
 
@@ -14,7 +14,7 @@
 
 <html>
 
-    <body style="lightblue;font-family:sans-serif;">
+  
 
         
 
